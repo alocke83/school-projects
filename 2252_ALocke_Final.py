@@ -10,7 +10,6 @@ stackoverflow that takes the value of current time since epoch, adds 10, and the
 time is equal to 10 seconds ago plus 10, which i thought was pretty clever.  On the other hand, I'm asking some
 hardcore questions and I already penalize you for getting even one question wrong.  So I just wanted to go on the
 record saying I Could have put a response time limit on it but I elected not to as a kindness.'''
-#also James Ferda licks my d
 
 
 '''---------------------data elements-----------------'''
